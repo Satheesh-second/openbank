@@ -10,7 +10,7 @@ public class BankController {
 
     public ResponseEntity generateCustomerBase()
     {
-        //Added the revised commnet by another user with branch1
+        //Commented added by satheesh-second with the branch1
         return null;
     }
 }
